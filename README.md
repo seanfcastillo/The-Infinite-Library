@@ -1,6 +1,7 @@
 # The-Infinite-Library
 An old-school ASCII procedurally generated library. Generate novels, poems, etc.
 
+(This is an ECLIPSE Java project)
 
 Welcome to the library!
 -----------------------
