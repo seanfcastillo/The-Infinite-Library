@@ -1,16 +1,9 @@
 # The-Infinite-Library
 An old-school ASCII procedurally generated library. Generate novels, poems, etc.
 
-   ##########################################################################   
-#//==========================================================================//#
-#||Welcome to the library!                                                   ||#
-#||--------------------------------------------------------------------------||#
-#||Please choose an option.                                                  ||#
-#||       1) Browse Library                                                  ||#
-#||       2) Discover New Book                                               ||#
-#||       3) Leave the Library and Save                                      ||#
-#//==========================================================================//#
-   ##########################################################################   
+
+Welcome to the library!
+-----------------------
    
    Browse: See your existing collection. Read or delete files you have created. The library will start with some pre-generated content for you to view.
    
